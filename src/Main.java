@@ -8,7 +8,6 @@ public class Main {
     public static void main(String[] args) {
 
 //        Statement Fetch data
-/*
 
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
